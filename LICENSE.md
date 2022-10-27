@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 Maha Kenawy
+Copyright (c) 2020 Maha Kenawy, developed at the University of Nevada, Reno
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
